@@ -1,0 +1,129 @@
+{
+    "Películas": [
+      {
+        "id": "1",
+        "Nombre": "La caída",
+        "Género": "Drama",
+        "Puntaje": "8/10"
+      },
+      
+      {
+        "id": "2",
+        "Nombre": "Minions",
+        "Género": "Infantil",
+        "Puntaje": "9/10"
+      },
+      {
+        "id": "3",
+        "Nombre": "Chernobyl",
+        "Género": "Drama",
+        "Puntaje": "7/10"
+      },
+      {
+        "id": "4",
+        "Nombre": "Pulp Fiction ",
+        "Género": "Crimen",
+        "Puntaje": "9,5/10"
+      },
+      {
+        "id": "5",
+        "Nombre": "El padrino",
+        "Género": "Drama",
+        "Puntaje": "9/10"
+      },
+      {
+        "id": "6",
+        "Nombre": "La vida es bella",
+        "Género": "Drama",
+        "Puntaje": "5/10"
+      },
+      {
+        "id": "7",
+        "Nombre": "La naranja mecánica",
+        "Género": "Distopía",
+        "Puntaje": "8/10"
+      },
+      {
+        "id": "8",
+        "Nombre": "Forrest Gump",
+        "Género": "Drama",
+        "Puntaje": "9/10"
+      },
+      {
+        "id": "9",
+        "Nombre": "Gladiator",
+        "Género": "Acción",
+        "Puntaje": "9/10"
+      },
+      {
+        "id": "10",
+        "Nombre": "Matrix",
+        "Género": "Ciencia ficción",
+        "Puntaje": "3/10"
+      },
+      {
+        "id": "11",
+        "Nombre": "Origen",
+        "Género": "Ciencia ficción",
+        "Puntaje": "6/10"
+      },
+      {
+        "id": "12",
+        "Nombre": "American Beauty",
+        "Género": "Drama",
+        "Puntaje": "8/10"
+      },
+      {
+        "id": "13",
+        "Nombre": "Big Fish",
+        "Género": "Drama",
+        "Puntaje": "7/10"
+      },
+      {
+        "id": "14",
+        "Nombre": "Trainspotting",
+        "Género": "Drama",
+        "Puntaje": "6/10"
+      },
+      {
+        "id": "15",
+        "Nombre": "El pianista",
+        "Género": "Drama",
+        "Puntaje": "7/10"
+      },
+      {
+        "id": "16",
+        "Nombre": "El resplandor",
+        "Género": "Terror",
+        "Puntaje": "4/10"
+      },
+      {
+        "id": "17",
+        "Nombre": "Memento",
+        "Género": "Crimen",
+        "Puntaje": "7/10"
+      },
+      {
+        "id": "18",
+        "Nombre": "Cinema Paradiso",
+        "Género": "Drama",
+        "Puntaje": "9/10"
+      },
+      {
+        "id": "19",
+        "Nombre": "V de Vendetta",
+        "Género": "Ciencia ficción",
+        "Puntaje": "4,8/10"
+      },
+      {
+        "id": "20",
+        "Nombre": "Casablanca",
+        "Género": "Drama",
+        "Puntaje": "8/10"
+      
+
+      }
+      
+    ]
+  }
+  
